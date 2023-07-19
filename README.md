@@ -1,4 +1,4 @@
-Hi !My name is Ajkena Lacka
+Hi !My name is Ajkena 
 ====================================================================================================================================
 
 Computer Science Student
@@ -8,7 +8,7 @@ A computer Science student willing to learn new technologies.
 
 * 🌍  I'm based in Tirana Albania
 * ✉️  You can contact me at [ajkena.lacka@gmail.com](mailto:ajkena.lacka@gmail.com)
-* 🧠  I'm learning Java, Angular, 3D Modeling
+* 🧠  I'm learning Javascript, React, Node.js, Python 
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
