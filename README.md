@@ -1,7 +1,7 @@
-Hi !My name is Ajkena 
+Hi! My name is Ajkena 
 ====================================================================================================================================
 
-Computer Science Student
+Aspiring Web Development
 ------------------------
 
 A computer Science student willing to learn new technologies.
