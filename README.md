@@ -1,10 +1,10 @@
 Hi! My name is Ajkena 
 ====================================================================================================================================
 
-Aspiring Web Development
+Aspiring Web Developer
 ------------------------
 
-A computer Science student willing to learn new technologies.
+
 
 * 🌍  I'm based in Tirana Albania
 * ✉️  You can contact me at [ajkena.lacka@gmail.com](mailto:ajkena.lacka@gmail.com)
